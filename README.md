@@ -1,2 +1,2 @@
 # lecture-28-nov
-CSS selektorer intro
+Box model, Positioning, Logical properties (Padding/margin/border-inline/block)
