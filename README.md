@@ -34,12 +34,7 @@ Box model, Positioning, Logical properties (Padding/margin/border-inline/block)
 
 ## Slides
 * [Layout mindset](https://docs.google.com/presentation/d/1PFbZRFADmdoNMNKOK9pLxfmdl87-CSVipjwhV1IKcPc/edit#slide=id.g33d96f2301_0_16)
-
-## **Material och resurser**
-- **Pluralsight-kurser (förslag):**  
-  - [CSS: Getting Started](https://www.pluralsight.com/) *(Introduktion och grunder i CSS)*  
-  - [Flexbox: A Practical Guide](https://www.pluralsight.com/) *(Förstå och använda flexbox i praktiken)*  
-  - [CSS Grid Layout](https://www.pluralsight.com/) *(Skapa avancerade och responsiva layouter med grid)*  
+ 
 
 - **Resurser från veckan:**  
   - [MDN: CSS Logical Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values)  
